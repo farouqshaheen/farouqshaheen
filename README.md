@@ -24,6 +24,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farouq%20Shaheen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farouq-shaheen-667b24305/)
 [![Phone](https://img.shields.io/badge/Phone-%2B962786986276-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+962786986276)
+[![Facebook](https://img.shields.io/badge/Facebook-Farouq%20Shaheen-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/farouq.shaheen.2025?locale=ar_AR)
+[![Instagram](https://img.shields.io/badge/Instagram-farouq0__0-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/farouq0_0/)
 [![GitHub](https://img.shields.io/badge/GitHub-farouqshaheen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farouqshaheen)
 
 </div>
@@ -38,8 +40,6 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
 
 </div>
 
@@ -48,6 +48,28 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+### **Tools | IDEs | Platforms**
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
+
+### **Operating Systems & Environments**
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
@@ -98,5 +120,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
-
-
