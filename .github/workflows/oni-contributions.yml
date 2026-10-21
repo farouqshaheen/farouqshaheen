@@ -1,0 +1,48 @@
+
+name: ONI Contribution Trail
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 2 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: oni-contribution-trail
+  cancel-in-progress: false
+
+jobs:
+  update-trail:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate real contribution calendar
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_LOGIN: farouqshaheen
+        run: python scripts/generate_oni_contributions.py
+
+      - name: Commit updated trail
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/oni-contributions.svg
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore(profile): refresh ONI contribution trail"
+            git push
+          fi
