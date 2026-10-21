@@ -44,5 +44,6 @@ jobs:
             echo "No changes"
           else
             git commit -m "chore(profile): refresh ONI contribution trail"
+            git pull --rebase origin main
             git push
           fi
