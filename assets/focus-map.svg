@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="189" viewBox="0 0 1180 189" role="img" aria-label="Animated cybersecurity areas of exploration, including OSINT, web exploitation, cryptography, digital forensics and red team">
+ <defs><linearGradient id="bg" x2="1" y2="0"><stop stop-color="#0d111a"/><stop offset=".5" stop-color="#170d19"/><stop offset="1" stop-color="#0d111a"/></linearGradient></defs>
+ <rect x="1" y="1" width="1178" height="187" rx="13" fill="url(#bg)" stroke="#6b2840" stroke-width="2"/>
+ <text x="26" y="31" fill="#f3f4f6" font-family="monospace" font-size="17" font-weight="bold">AREAS OF EXPLORATION</text>
+ <text x="945" y="31" fill="#b9899e" font-family="monospace" font-size="11">CONTINUOUS LEARNING</text>
+ <path d="M28 47h1120" stroke="#50243b"/>
+ <path d="M89 89H1080" stroke="#673146" stroke-width="3" stroke-dasharray="4 9"/>
+ <circle cx="89" cy="89" r="6" fill="#ff6b8b"><animateMotion dur="12s" repeatCount="indefinite" path="M0 0H991H0"/></circle>
+<g transform="translate(42 61)"><rect width="195" height="104" rx="7" fill="#151823" stroke="#5b293e"/>
+    <rect x="8" y="9" width="7" height="7" fill="#fb7185"><animate attributeName="opacity" values=".2;1;.2" dur="1.40s" repeatCount="indefinite"/></rect>
+    <text x="24" y="18" fill="#8992a3" font-family="monospace" font-size="10">01 / RECON</text>
+    <text x="14" y="58" fill="#f5f5f7" font-family="monospace" font-size="18" font-weight="bold">OSINT</text>
+    <path d="M14 82h168" stroke="#523346" stroke-width="3"/>
+    <path d="M14 82h42" stroke="#f43f5e" stroke-width="3"><animate attributeName="d" values="M14 82h42;M67 82h42;M139 82h42;M14 82h42" dur="5.0s" repeatCount="indefinite"/></path>
+    </g><g transform="translate(268 61)"><rect width="195" height="104" rx="7" fill="#151823" stroke="#5b293e"/>
+    <rect x="8" y="9" width="7" height="7" fill="#fb7185"><animate attributeName="opacity" values=".2;1;.2" dur="1.65s" repeatCount="indefinite"/></rect>
+    <text x="24" y="18" fill="#8992a3" font-family="monospace" font-size="10">02 / ANALYZE</text>
+    <text x="14" y="58" fill="#f5f5f7" font-family="monospace" font-size="18" font-weight="bold">WEB</text>
+    <path d="M14 82h168" stroke="#523346" stroke-width="3"/>
+    <path d="M14 82h42" stroke="#f43f5e" stroke-width="3"><animate attributeName="d" values="M14 82h42;M67 82h42;M139 82h42;M14 82h42" dur="5.5s" repeatCount="indefinite"/></path>
+    </g><g transform="translate(494 61)"><rect width="195" height="104" rx="7" fill="#151823" stroke="#5b293e"/>
+    <rect x="8" y="9" width="7" height="7" fill="#fb7185"><animate attributeName="opacity" values=".2;1;.2" dur="1.90s" repeatCount="indefinite"/></rect>
+    <text x="24" y="18" fill="#8992a3" font-family="monospace" font-size="10">03 / DECODE</text>
+    <text x="14" y="58" fill="#f5f5f7" font-family="monospace" font-size="18" font-weight="bold">CRYPTO</text>
+    <path d="M14 82h168" stroke="#523346" stroke-width="3"/>
+    <path d="M14 82h42" stroke="#f43f5e" stroke-width="3"><animate attributeName="d" values="M14 82h42;M67 82h42;M139 82h42;M14 82h42" dur="6.0s" repeatCount="indefinite"/></path>
+    </g><g transform="translate(720 61)"><rect width="195" height="104" rx="7" fill="#151823" stroke="#5b293e"/>
+    <rect x="8" y="9" width="7" height="7" fill="#fb7185"><animate attributeName="opacity" values=".2;1;.2" dur="2.15s" repeatCount="indefinite"/></rect>
+    <text x="24" y="18" fill="#8992a3" font-family="monospace" font-size="10">04 / INSPECT</text>
+    <text x="14" y="58" fill="#f5f5f7" font-family="monospace" font-size="18" font-weight="bold">FORENSICS</text>
+    <path d="M14 82h168" stroke="#523346" stroke-width="3"/>
+    <path d="M14 82h42" stroke="#f43f5e" stroke-width="3"><animate attributeName="d" values="M14 82h42;M67 82h42;M139 82h42;M14 82h42" dur="6.5s" repeatCount="indefinite"/></path>
+    </g><g transform="translate(946 61)"><rect width="195" height="104" rx="7" fill="#151823" stroke="#5b293e"/>
+    <rect x="8" y="9" width="7" height="7" fill="#fb7185"><animate attributeName="opacity" values=".2;1;.2" dur="2.40s" repeatCount="indefinite"/></rect>
+    <text x="24" y="18" fill="#8992a3" font-family="monospace" font-size="10">05 / ASSESS</text>
+    <text x="14" y="58" fill="#f5f5f7" font-family="monospace" font-size="18" font-weight="bold">RED TEAM</text>
+    <path d="M14 82h168" stroke="#523346" stroke-width="3"/>
+    <path d="M14 82h42" stroke="#f43f5e" stroke-width="3"><animate attributeName="d" values="M14 82h42;M67 82h42;M139 82h42;M14 82h42" dur="7.0s" repeatCount="indefinite"/></path>
+    </g></svg>
