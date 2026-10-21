@@ -1,5 +1,15 @@
+<!--
+  Farouq Shaheen — GitHub Profile README
+  Design: ONYX-inspired | Crimson × Obsidian | Terminal / Cybersecurity
+  Replace the README.md in https://github.com/farouqshaheen/farouqshaheen
+-->
+
 <div align="center">
-  <img width="100%" alt="Farouq Shaheen — Cybersecurity / Red Team / CTF" src="./farouq-header-onyx.png" />
+  <img width="100%" alt="Farouq Shaheen — Cybersecurity, CTF & Game Development" src="https://capsule-render.vercel.app/api?type=waving&color=0:090B10,45:25101A,100:991B32&height=220&section=header&text=FAROUQ%20SHAHEEN&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20CTF%20%7C%20GAME%20DEVELOPMENT&descSize=17&descAlignY=60&descColor=F8D7DF" />
+
+  <a href="https://git.io/typing-svg">
+    <img alt="Cybersecurity enthusiast, ONYX team leader, Red Team learner, CTF competitor, Unity developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2900&pause=900&color=E11D48&center=true&vCenter=true&width=800&lines=%3E+whoami+%3A+Farouq+Shaheen;%3E+Team+Leader+%40+ONYX;%3E+Red+Team+%7C+CTF+%7C+Offensive+Security;%3E+Unity+%26+C%23+Game+Developer;%3E+Always+learning.+Always+building." />
+  </a>
 
   <p>
     <a href="https://github.com/farouqshaheen"><img alt="GitHub followers" src="https://img.shields.io/github/followers/farouqshaheen?style=for-the-badge&logo=github&label=FOLLOWERS&color=991B32&labelColor=131720" /></a>
@@ -16,32 +26,26 @@
 
 ---
 
-## `> ./field_operations --simulate`
-
-<div align="center">
-  <img src="./assets/oni-field-operations.svg" width="100%" alt="Animated cybersecurity simulation: ONI walks across the dashboard, locks onto a simulated target, and sends red scanning pulses." />
-  <sub>A looping SVG illustration of a cybersecurity training simulation. No external scripts, real attacks, or live targets.</sub>
-</div>
-
----
-
 ## `> whoami`
 
 ```text
-┌──(farouq㉿kali)-[~/profile]
+┌──(farouq㉿onyx)-[~/profile]
 └─$ cat about.txt
 
 NAME       : Farouq Shaheen
 FOCUS      : Offensive Security · Red Team · CTF
-INTERESTS  : Web Security · OSINT · Cryptography
+TEAM       : ONYX — Team Leader
+SECOND PATH: Game Development · Unity · C#
 MINDSET    : Understand the system. Challenge the assumptions.
 ```
 
-I'm **Farouq Shaheen**, a cybersecurity enthusiast from Jordan, focused on **offensive security, ethical hacking, and Capture The Flag (CTF) competitions**. I am the **Founder of ONYX**.
+I'm **Farouq Shaheen**, a cybersecurity enthusiast from Jordan, focused on **offensive security, ethical hacking, and Capture The Flag (CTF) competitions**. I lead **ONYX**, a cybersecurity team centered on learning, collaboration, and hands-on challenges.
+
+I also develop games with **Unity and C#**. Working with gameplay systems and code logic gives me a different way to think about application behavior, edge cases, and security testing.
 
 - **Currently exploring:** Red Team fundamentals, web exploitation, OSINT, cryptography, digital forensics, and CTF problem-solving.
-- **Hands-on work:** Python, Bash, technical writeups, and security testing labs.
-- **Open to:** Cybersecurity internships, collaborative security research, and CTF communities.
+- **Building with:** Python, Bash, C#, and the tools that make hands-on experimentation possible.
+- **Open to:** Cybersecurity internships, collaborative security research, CTF communities, and game development projects.
 
 ---
 
@@ -49,40 +53,30 @@ I'm **Farouq Shaheen**, a cybersecurity enthusiast from Jordan, focused on **off
 
 | Milestone | Details |
 |:--|:--|
-| **JordanSec MINI CTF — Top 10** | **10th place overall** in the competition. |
-| **BRK-CYS 2026 CTF — Challenge Author** | Designed and documented <a href="https://github.com/farouqshaheen/BRK-CYS-2026-CTF-Writeups">web exploitation CTF challenges</a> involving SQLi, SSTI, and deceptive defenses. |
+| **ONYX — Team Leader** | Organizing team training, CTF challenges, and collaborative learning. |
+| **JordanSec MINI CTF — Top 10** | **10th place overall** as part of Team ONYX. |
+| **BRK-CYS 2026 CTF — Challenge Author** | Created and documented web exploitation challenges involving SQL injection, SSTI, and deceptive defense mechanisms. |
 
 > **My approach:** Learn how a system is built, understand its logic, then test it responsibly.
 
 ---
 
-## `> ls ~/security-research`
+## `> ls ~/projects`
 
-**Selected work.** Two real CTF case studies, presented as live mission cards.
-
-<p align="center">
-  <a href="https://github.com/farouqshaheen/BRK-CYS-2026-CTF-Writeups/blob/main/The%20Invisible%20Leak/README.md"><img src="./assets/case-invisible-leak.svg" width="49%" alt="The Invisible Leak: animated SQL injection case study card" /></a>
-  <a href="https://github.com/farouqshaheen/BRK-CYS-2026-CTF-Writeups/blob/main/phantom-protocol/README.md"><img src="./assets/case-phantom-protocol.svg" width="49%" alt="The Phantom Protocol: animated WAF bypass case study card" /></a>
-</p>
-
-**Read the writeups:** [The Invisible Leak](https://github.com/farouqshaheen/BRK-CYS-2026-CTF-Writeups/blob/main/The%20Invisible%20Leak/README.md) · [The Phantom Protocol](https://github.com/farouqshaheen/BRK-CYS-2026-CTF-Writeups/blob/main/phantom-protocol/README.md) · [Full archive](https://github.com/farouqshaheen/BRK-CYS-2026-CTF-Writeups)
-
----
-
-## `> ./exploration-map --live`
-
-<img src="./assets/focus-map.svg" width="100%" alt="Animated exploration map: OSINT, web exploitation, cryptography, digital forensics, and red team" />
-
-<details>
-  <summary><strong>Explore the current learning tracks</strong></summary>
-
-  - **OSINT:** Open-source intelligence and investigative approaches.
-  - **Web security:** Understanding application logic, SQL injection, and SSTI.
-  - **Cryptography:** CTF puzzles, cipher analysis, and RSA fundamentals.
-  - **Digital forensics:** Network and artifact analysis in lab challenges.
-  - **Red Team:** Offensive-security fundamentals and authorized exercises.
-
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/farouqshaheen/BRK-CYS-2026-CTF-Writeups">BRK-CYS 2026 · CTF Writeups</a></h3>
+      <p>Challenge design and technical writeups covering web exploitation, SQLi, SSTI, HTTP behavior, and application logic.</p>
+      <a href="https://github.com/farouqshaheen/BRK-CYS-2026-CTF-Writeups"><img alt="View CTF writeups" src="https://img.shields.io/badge/VIEW-WRITEUPS-E11D48?style=flat-square&labelColor=131720" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/farouqshaheen?tab=repositories">More Experiments & Projects</a></h3>
+      <p>Exploring Python and Bash scripting, security workflows, cybersecurity challenges, and software development.</p>
+      <a href="https://github.com/farouqshaheen?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-E11D48?style=flat-square&labelColor=131720" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -103,13 +97,15 @@ I'm **Farouq Shaheen**, a cybersecurity enthusiast from Jordan, focused on **off
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-131720?style=for-the-badge&logo=python&logoColor=E11D48" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-131720?style=for-the-badge&logo=gnubash&logoColor=E11D48" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-131720?style=for-the-badge&logo=sharp&logoColor=E11D48" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-131720?style=for-the-badge&logo=cplusplus&logoColor=E11D48" />
   <img alt="Java" src="https://img.shields.io/badge/Java-131720?style=for-the-badge&logo=openjdk&logoColor=E11D48" />
 </p>
 
-**Development Workflow**
+**Game Development & Workflow**
 
 <p>
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-131720?style=for-the-badge&logo=unity&logoColor=E11D48" />
   <img alt="Git" src="https://img.shields.io/badge/Git-131720?style=for-the-badge&logo=git&logoColor=E11D48" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-131720?style=for-the-badge&logo=github&logoColor=E11D48" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-131720?style=for-the-badge&logo=visualstudiocode&logoColor=E11D48" />
@@ -136,7 +132,7 @@ I'm **Farouq Shaheen**, a cybersecurity enthusiast from Jordan, focused on **off
 
 ### `> connect --with farouq`
 
-**Interested in CTFs, offensive security, or security research? Let's connect.**
+**Interested in CTFs, offensive security, or game development? Let's connect.**
 
 <a href="https://www.linkedin.com/in/farouq-shaheen-667b24305/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-E11D48?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=131720" /></a>
 <a href="https://github.com/farouqshaheen"><img alt="Follow on GitHub" src="https://img.shields.io/badge/GITHUB-FOLLOW-E11D48?style=for-the-badge&logo=github&logoColor=white&labelColor=131720" /></a>
@@ -145,6 +141,6 @@ I'm **Farouq Shaheen**, a cybersecurity enthusiast from Jordan, focused on **off
 
 *"Build to understand. Break to learn. Secure by design."*
 
-<sub>FAROUQ SHAHEEN · CYBERSECURITY · JORDAN</sub>
+<img width="100%" alt="Crimson GitHub profile footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:090B10,45:25101A,100:991B32&height=115&section=footer" />
 
 </div>
