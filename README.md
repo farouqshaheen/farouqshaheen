@@ -1,15 +1,5 @@
-<!--
-  Farouq Shaheen — GitHub Profile README
-  Design: Crimson × Obsidian | Terminal / Cybersecurity
-  Replace the README.md in https://github.com/farouqshaheen/farouqshaheen
--->
-
 <div align="center">
-  <img width="100%" alt="Farouq Shaheen — Cybersecurity, Red Team & CTF" src="https://capsule-render.vercel.app/api?type=waving&color=0:090B10,45:25101A,100:991B32&height=220&section=header&text=FAROUQ%20SHAHEEN&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20RED%20TEAM%20%7C%20CTF&descSize=17&descAlignY=60&descColor=F8D7DF" />
-
-  <a href="https://git.io/typing-svg">
-    <img alt="Cybersecurity enthusiast, Red Team learner, CTF competitor" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2900&pause=900&color=E11D48&center=true&vCenter=true&width=800&lines=%3E+whoami+%3A+Farouq+Shaheen;%3E+Cybersecurity+Enthusiast;%3E+Red+Team+%7C+CTF+%7C+Offensive+Security;%3E+Ethical+Hacking+%7C+Security+Research;%3E+Always+learning.+Always+building." />
-  </a>
+  <img width="100%" alt="Farouq Shaheen — Cybersecurity / Red Team / CTF" src="./assets/farouq-header-onyx.png" />
 
   <p>
     <a href="https://github.com/farouqshaheen"><img alt="GitHub followers" src="https://img.shields.io/github/followers/farouqshaheen?style=for-the-badge&logo=github&label=FOLLOWERS&color=991B32&labelColor=131720" /></a>
@@ -147,6 +137,6 @@ I'm **Farouq Shaheen**, a cybersecurity enthusiast from Jordan, focused on **off
 
 *"Build to understand. Break to learn. Secure by design."*
 
-<img width="100%" alt="Crimson GitHub profile footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:090B10,45:25101A,100:991B32&height=115&section=footer" />
+<sub>FAROUQ SHAHEEN · CYBERSECURITY · JORDAN</sub>
 
 </div>
